@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Trino分布式SQL查询工具](https://marketplace.huaweicloud.com/hidden/contents/250153e3-70a7-47bf-bd63-ed25f6001add#productid=OFFI1128523777590206464)
+[Trino分布式SQL查询工具](https://marketplace.huaweicloud.com/contents/250153e3-70a7-47bf-bd63-ed25f6001add#productid=OFFI1128523777590206464)
 
 # 二、商品说明
 
