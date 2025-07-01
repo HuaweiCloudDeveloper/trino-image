@@ -22,7 +22,7 @@
 - **Standard SQL Support:** It provides a standard SQL query language, reducing the user's learning cost and improving development efficiency.
 - **Scalability:** It supports custom connectors, allowing users to easily extend TrinoDB to support more data sources.
 
-The open - source image product [**Trino Distributed SQL Query Tool**](https://marketplace.huaweicloud.com/intl/hidden/contents/282358fb-8c3c-4984-839e-fc959ec7d8be) provided by this project has Trino software and its related operating environment pre - installed, and deployment templates are also provided. Come and refer to the usage guide to easily start an "out - of - the - box" and efficient experience!
+The open - source image product [**Trino Distributed SQL Query Tool**](https://marketplace.huaweicloud.com/intl/contents/282358fb-8c3c-4984-839e-fc959ec7d8be) provided by this project has Trino software and its related operating environment pre - installed, and deployment templates are also provided. Come and refer to the usage guide to easily start an "out - of - the - box" and efficient experience!
 
 > **System requirements are as follows:**
 > - CPU: 2GHz or higher
@@ -36,11 +36,11 @@ The open - source image product [**Trino Distributed SQL Query Tool**](https://m
 
 | Image Specification                                                                                                                              | Feature Description                                  | Remarks |
 |----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------| --- |
-| [Trino475 - arm - v1.0](https://github.com/HuaweiCloudDeveloper/trino-image/tree/Trino475-arm-v1.0) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64bit |  |
+| [Trino-475-kunpeng](https://github.com/HuaweiCloudDeveloper/trino-image/tree/Trino-475-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Get Help
 - For more questions, you can contact us through [issue](https://github.com/HuaweiCloudDeveloper/trino-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
-- For other open - source images, see [open - source - image - repos](https://github.com/HuaweiCloudDeveloper/open - source - image - repos)
+- For other open - source images, see [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos)
 
 ## How to Contribute
 - Fork this repository and submit a merge request.
